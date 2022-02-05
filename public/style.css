@@ -1,0 +1,37 @@
+body{background-color:  #ccd1d1 ;}
+
+.logo{
+    margin-left: 20px;
+}
+
+.header{display: flex; align-items: center;}
+
+nav{flex: 1; text-align: right;}
+
+table{display: inline-block; text-align: right;}
+
+td{display: inline-block; margin-right: 20px;}
+
+a{text-decoration: none; color: black;}
+
+a:hover{color: coral;}
+
+.icecream{display: flex; align-items: center; background-color:  #f8f9f9 ;}
+
+.sss{padding-top:10px; margin-left: 80px;}
+
+.desc{width: 100%; display: flex; background-color:   #F2F1EF  ;}
+
+#h1{color: #ee41a5;}
+
+.txt{margin-left: 40px;}
+
+p{font-family: 'Dancing Script', cursive; }
+
+.footer{background-color:   #e67e22   ;}
+
+.foot{padding: 40px; margin-left: 130px; margin-bottom: 20px; text-align: center;}
+
+.foot td{display: inline-block; margin-right: 190px; color: white;}
+
+.foot td:hover{color: #17202a  ;}
