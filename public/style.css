@@ -1,37 +1,66 @@
-body{background-color:  #ccd1d1 ;}
+*{padding: 0%; margin: 0%; font-family: 'Open Sans', sans-serif;}
 
-.logo{
-    margin-left: 20px;
-}
+             /* header */
 
-.header{display: flex; align-items: center;}
+.header{background-color: black;}
 
-nav{flex: 1; text-align: right;}
+.headertxt{color:  #d5dbdb ;}
 
-table{display: inline-block; text-align: right;}
+a{text-decoration: none; color: #d5dbdb ;}
 
-td{display: inline-block; margin-right: 20px;}
+td{padding: 20px;}
 
-a{text-decoration: none; color: black;}
+                 /* middle */
 
-a:hover{color: coral;}
+.para1{background-color: #F5F5F7; font-size: small; text-align: center; padding: 10px;} 
 
-.icecream{display: flex; align-items: center; background-color:  #f8f9f9 ;}
+.new{color: #0066CC;}
 
-.sss{padding-top:10px; margin-left: 80px;}
+.new:hover{text-decoration: underline;}
 
-.desc{width: 100%; display: flex; background-color:   #F2F1EF  ;}
+.h{text-align: center; color: black; padding-top: 20px;}
 
-#h1{color: #ee41a5;}
+.bg1{background-image: url(./images/hero_iphone_13pro__dhnsegysa42u_large.jpg);background-size: cover; background-repeat: no-repeat; background-position: center ;}
 
-.txt{margin-left: 40px;}
+.s{display: inline-block; margin-left: 20px; font-weight: bold; margin-bottom: 400px;}
 
-p{font-family: 'Dancing Script', cursive; }
 
-.footer{background-color:   #e67e22   ;}
 
-.foot{padding: 40px; margin-left: 130px; margin-bottom: 20px; text-align: center;}
+.brown{color: #BF4800;}
 
-.foot td{display: inline-block; margin-right: 190px; color: white;}
+.bg2{padding-top: 10px; background-image: url(./images/hero_watch__f05go333pz2i_large.jpg); background-size:3000px; background-repeat: no-repeat; background-position: center; height: 600px; margin-top: 20px;}
 
-.foot td:hover{color: #17202a  ;}
+h2{text-align: center;}
+
+
+
+
+.bg3{padding-top: 10px; background-image: url(./images/hero_coda__cv3jny7jpe6a_large.jpg); background-size: 3000px; background-repeat: no-repeat; background-position: center; height: 600px;} 
+
+.white{color: white;}
+
+.txt{font-size: 20px; margin-top: 40px;}
+
+.txt2{font-size: 70px;}
+
+.bottom{padding-top: 300px; font-weight: 900;}
+
+.txt3{font-size: 20px;}
+
+/* .all{padding-top: 10px; height: 1000px}
+
+.flex{display: flex;}
+
+.bg4{background-image: url(./images/hero_vday22__bt5gpd2vjafm_small.jpg); background-size: 500px; background-repeat: no-repeat; height: 500px;}
+
+.bg5{background-image: url(./images/tile_iphone_13__d9w82q7fwceq_small_2x.jpg); background-size: 500px; background-repeat: no-repeat; background-position: right; height: 500px;} */
+
+                         /* footer */
+
+.foot{background-color: #F5F5F7;; margin-top: 20px;}
+
+.smalltxt{font-size: 12px;  padding-top: 15px; text-align: left; padding-left: 200px;}
+
+.small{color: black;}
+.small:hover{text-decoration: underline;}
+
